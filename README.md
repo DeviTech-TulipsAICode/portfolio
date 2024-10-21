@@ -15,6 +15,9 @@ Welcome to my portfolio showcasing my work in Embedded Systems, Artificial Intel
 
 ## Profile
 
+![Profile Image](images/profile-image.jpg)
+
+
 Emerging Engineer specializing in Embedded Systems and Artificial Intelligence. Equipped with a strong educational background in embedded systems and data science, combined with practical experience in data science and machine learning. Proficient in developing innovative solutions and leveraging technical skills to solve complex problems. Actively seeking a challenging role to contribute to cutting-edge projects in both embedded systems and AI.
 
 ## Education
